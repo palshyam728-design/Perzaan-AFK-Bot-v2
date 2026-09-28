@@ -8,7 +8,7 @@
   "server": {
     "ip": "spidermc-YhwE.aternos.me",
     "port": 62427,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
